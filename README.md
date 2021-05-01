@@ -6,3 +6,4 @@ Parses Win/Loss, Average Combat Score(ACS), and Economy(ECO) to calculate Elo(ht
 Allows user to create 'fair' teams based on relative ranking.
 
 # steven haddad
+# steven haddad (lol)
